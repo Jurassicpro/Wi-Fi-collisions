@@ -1,0 +1,11 @@
+release/addmenu.o
+release/line.o
+release/main.o
+release/pc.o
+release/router.o
+release/viewexample.o
+release/qrc_pics.o
+release/moc_addmenu.o
+release/moc_line.o
+release/moc_pc.o
+release/moc_router.o

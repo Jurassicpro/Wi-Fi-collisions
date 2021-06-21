@@ -1,0 +1,11 @@
+debug/addmenu.o
+debug/line.o
+debug/main.o
+debug/pc.o
+debug/router.o
+debug/viewexample.o
+debug/qrc_pics.o
+debug/moc_addmenu.o
+debug/moc_line.o
+debug/moc_pc.o
+debug/moc_router.o

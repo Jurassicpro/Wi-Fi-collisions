@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>pics/wifi_icon.png</file>
+        <file>pics/wifi-router.png</file>
+        <file>pics/wifi-router2.png</file>
+        <file>pics/wifi-router3.png</file>
+        <file>pics/wifi-router4.png</file>
+        <file>pics/wifi-router5.png</file>
+    </qresource>
+    <qresource prefix="/pics_pc">
+        <file>pics/PC icons/pc1.png</file>
+        <file>pics/PC icons/pc2.png</file>
+        <file>pics/PC icons/pc4.png</file>
+        <file>pics/PC icons/pc5.png</file>
+        <file>pics/PC icons/pc3.png</file>
+    </qresource>
+</RCC>
